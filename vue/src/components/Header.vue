@@ -1,5 +1,7 @@
 <template>
-    <header>Header of {{ msg }}</header>
+    <header>
+        <h1>Header of {{ msg }}</h1>
+    </header>
 </template>
 
 <script>
